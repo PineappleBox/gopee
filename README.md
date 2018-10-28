@@ -13,7 +13,7 @@ Deploying This Application
 
 - Update .godir to match your forked repo url
 
-#### Deploy to [heroku](https://www.heroku.com/)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 - Download and Setup Heroku Toolbelt https://toolbelt.heroku.com/
 
