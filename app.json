@@ -1,0 +1,17 @@
+{
+  "name": "WebProxy",
+  "description": "A Web Proxy on Heroku",
+  "keywords": [
+    "webproxy",
+    "unblock"
+  ],
+  "https://github.com/PineappleBox/gopee",
+  "buildpacks": [
+    {
+      "url": "heroku/go"
+    },
+    {
+      "url": "heroku-community/inline"
+    }
+  ]
+}
